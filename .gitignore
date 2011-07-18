@@ -1,0 +1,8 @@
+*~
+*.swp
+/Build
+/build
+NDependOut
+*.Publish.xml
+build
+raw/audio/**/*
